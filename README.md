@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shrikant chavan</h1>
 <h3 align="center">I'm a passionate Java Developer with a strong focus on backend development using Spring Boot and related frameworks.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrikant222" alt="shrikant222" /></a> </p>
+
 
 - 🔭 I’m currently working on [Ecom](https://github.com/shrikant222/E-COM)
 
