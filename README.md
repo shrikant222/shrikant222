@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Ecom](https://github.com/shrikant222/E-COM)
+- 🔭 I’m currently working on [StockMate]
 
 - 🌱 I’m currently learning **Spring Data JPA**
 
